@@ -1,2 +1,18 @@
-# OpenCV-Edge-Detection
-Unlock the secrets of image processing with this comprehensive OpenCV Edge Detection tutorial. This repository provides a detailed Python script using the Canny algorithm, along with varying edge detection techniques for versatile applications. From medical imaging to autonomous vehicles, this project serves as a cornerstone for various fields.
+# Code Depot Edge Detector
+
+## Author
+Ankush
+
+## Description
+This project demonstrates the use of the Canny edge detection algorithm using OpenCV. 
+It includes edge detection with varying thresholds.
+
+## Installation
+1. Clone this repository.
+2. Install the required packages using pip:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+Run the Python script `edge_detector_with_comments.py` to see the edge detection in action.
